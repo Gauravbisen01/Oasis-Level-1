@@ -5,8 +5,8 @@ We develop personalized software at our company, we turn the digital dreams of o
 We at oasis infobyte believe in making our youth especially the students self-aware and exploring the untouched world of technology and tremendous growth-making fields. We believes in bridging the gap between students and their knowledge in the industrial field & bringing them a step closer to their dream. We are msme registered start-up, always open to connect new people with us over this journey of endless learning and great joy!
 
 ## Project-1
-Landing Page
-## Project-2
 Temperature Converter
-## Project-3
+## Project-2
 Portfolio
+## Project-3
+Landing Page
